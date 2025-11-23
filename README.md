@@ -5,6 +5,7 @@ Make sure gleam installed.
 first install Homebrew:
 
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 then once homebrew is installed:
 
   brew update
