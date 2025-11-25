@@ -14,7 +14,7 @@ then once homebrew is installed, using command line:
 
   
 
-cd into the project src folder.
+cd into the project folder.
 
 run: python3 -m http.server 8000
 
